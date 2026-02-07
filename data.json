@@ -1,1 +1,135 @@
-
+{
+  "appConfig": {
+    "AppName": "Bawel",
+    "LiveCountBase": 500000,
+    "PageTitle": "India's Best Auto Directory",
+    "FooterText": "? 2025 Bawel"
+  },
+  "categories": [
+    "Showroom",
+    "Parts",
+    "Service",
+    "Rentals",
+    "Accessories",
+    "Car Wash"
+  ],
+  "states": [
+    "Goa",
+    "Karnataka",
+    "Madhya Pradesh",
+    "Maharashtra",
+    "Uttar Pradesh",
+    "West Bengal"
+  ],
+  "listings": [
+    {
+      "id": 101,
+      "name": "Royal Honda",
+      "category": "Showroom",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": 452001,
+      "phone": "9876543210",
+      "chatlink": "https://wa.me/919876543210",
+      "address": "Plot 45 AB Road",
+      "desc": "Authorized Honda dealer with premium service and latest models.",
+      "image": "https://images.unsplash.com/photo-1552519507-da8b1227ad4a?w=500",
+      "gallery": [
+        "https://images.unsplash.com/photo-1552519507-da8b1227ad4a?w=500",
+        "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=500",
+        "https://images.unsplash.com/photo-1580273916550-e323be2ed532?w=500"
+      ]
+    },
+    {
+      "id": 102,
+      "name": "City Auto Spares",
+      "category": "Parts",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": 400050,
+      "phone": "9988776655",
+      "chatlink": "https://wa.me/919876543210",
+      "address": "Shop 12 Hill Road Bandra",
+      "desc": "Genuine spare parts for Maruti and Hyundai. Wholesale rates.",
+      "image": "https://images.unsplash.com/photo-1486262715619-01b8c2297605?w=500",
+      "gallery": [
+        "https://images.unsplash.com/photo-1486262715619-01b8c2297605?w=500",
+        "https://images.unsplash.com/photo-1606577924004-64759ade2668?w=500",
+        "https://images.unsplash.com/photo-1563720223185-11003d516935?w=500"
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Express Car Care",
+      "category": "Service",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": 560001,
+      "phone": "9123456789",
+      "chatlink": "https://wa.me/919876543210",
+      "address": "Garage No 5 MG Road",
+      "desc": "Expert mechanic services for luxury cars. Denting and painting available.",
+      "image": "https://images.unsplash.com/photo-1530906351363-dcb621b72958?w=500",
+      "gallery": [
+        "https://images.unsplash.com/photo-1530906351363-dcb621b72958?w=500",
+        "https://images.unsplash.com/photo-1597763745289-4e6f9906666d?w=500",
+        "https://images.unsplash.com/photo-1504222490345-c075b6008014?w=500"
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Apex Toyota",
+      "category": "Showroom",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "pincode": 226001,
+      "phone": "8899776655",
+      "chatlink": "https://wa.me/919876543210",
+      "address": "Hazratganj Main Market",
+      "desc": "Visit for the best deals on Toyota cars. Finance available.",
+      "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=500",
+      "gallery": [
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=500",
+        "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=500",
+        "https://images.unsplash.com/photo-1503376763036-066120622c74?w=500"
+      ]
+    },
+    {
+      "id": 105,
+      "name": "Galaxy Tyres",
+      "category": "Parts",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "pincode": 700001,
+      "phone": "7766554433",
+      "chatlink": "https://wa.me/919876543210",
+      "address": "Park Street Area",
+      "desc": "All brands of tyres and alloys available. Wheel alignment service.",
+      "image": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=500",
+      "gallery": [
+        "https://images.unsplash.com/photo-1563720223185-11003d516935?w=500",
+        "https://images.unsplash.com/photo-1606577924004-64759ade2668?w=500",
+        "https://images.unsplash.com/photo-1486262715619-01b8c2297605?w=500"
+      ]
+    },
+    {
+      "id": 106,
+      "name": "Zoom Rentals",
+      "category": "Rentals",
+      "city": "Goa",
+      "state": "Goa",
+      "pincode": 403001,
+      "phone": "9998887776",
+      "chatlink": "https://wa.me/919876543210",
+      "address": "Near Calangute Beach",
+      "desc": "Self drive cars and bikes for rent. No deposit required.",
+      "image": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=500",
+      "gallery": [
+        "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=500",
+        "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=500",
+        "https://images.unsplash.com/photo-1502877338535-766e1452684a?w=500"
+      ]
+    }
+  ],
+  "updatedAt": "Sun Feb 08 2026 01:35:59 GMT+0530 (India Standard Time)"
+}
