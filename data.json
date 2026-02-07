@@ -131,6 +131,11 @@
       ]
     }
   ],
-  "stateSettings": {},
-  "updatedAt": "Sun Feb 08 2026 02:42:34 GMT+0530 (India Standard Time)"
+  "stateSettings": {
+    "All India": 500000,
+    "Maharashtra": 50000,
+    "Karnataka": 30000,
+    "Uttar Pradesh": 40000
+  },
+  "updatedAt": "Sun Feb 08 2026 02:53:37 GMT+0530 (India Standard Time)"
 }
