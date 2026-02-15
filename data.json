@@ -1,9 +1,13 @@
 {
   "appConfig": {
     "AppName": "Bawel",
+    "APPNAME": "Bawel",
     "LiveCountBase": 500000,
+    "LIVECOUNTBASE": 500000,
     "PageTitle": "India's Best Auto Directory",
+    "PAGETITLE": "India's Best Auto Directory",
     "FooterText": "? 2025 Bawel",
+    "FOOTERTEXT": "? 2025 Bawel",
     "PAYMENT_UPI_ID": "8882235789@gmail.com",
     "PAYMENT_QR_URL": "",
     "WEB_APP_URL": "https://script.google.com/macros/s/AKfycbw7NP8dEXn3drWaxmK0n0qCu9iMPHUFed5aivGzu3c6Xu8xzIRYBOvbriaudpKUQJegyA/exec",
@@ -20,6 +24,14 @@
     "Accessories",
     "Wash"
   ],
+  "categoryPrices": {
+    "Showroom": 5001,
+    "Parts": 2001,
+    "Service": 3001,
+    "Rentals": 5001,
+    "Accessories": 2001,
+    "Wash": 1001
+  },
   "states": [
     "Andhra Pradesh",
     "Arunachal Pradesh",
@@ -33541,5 +33553,5 @@
     "Karnataka": 30000,
     "Uttar Pradesh": 40000
   },
-  "updatedAt": "Sun Feb 15 2026 23:40:29 GMT+0530 (India Standard Time)"
+  "generatedAt": "2026-02-15T18:23:40.878Z"
 }
