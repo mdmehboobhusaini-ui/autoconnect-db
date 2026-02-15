@@ -3,7 +3,10 @@
     "AppName": "Bawel",
     "LiveCountBase": 500000,
     "PageTitle": "India's Best Auto Directory",
-    "FooterText": "? 2025 Bawel"
+    "FooterText": "? 2025 Bawel",
+    "PAYMENT_UPI_ID": "8882235789@gmail.com",
+    "PAYMENT_QR_URL": "",
+    "WEB_APP_URL": "https://script.google.com/macros/s/AKfycbw7NP8dEXn3drWaxmK0n0qCu9iMPHUFed5aivGzu3c6Xu8xzIRYBOvbriaudpKUQJegyA/exec"
   },
   "categories": [
     "Showroom",
@@ -33534,5 +33537,5 @@
     "Karnataka": 30000,
     "Uttar Pradesh": 40000
   },
-  "updatedAt": "Sun Feb 15 2026 20:24:02 GMT+0530 (India Standard Time)"
+  "updatedAt": "Sun Feb 15 2026 22:48:07 GMT+0530 (India Standard Time)"
 }
