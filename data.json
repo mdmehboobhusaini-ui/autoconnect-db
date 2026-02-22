@@ -9,12 +9,12 @@
     "FooterText": "? 2025 Bawel",
     "FOOTERTEXT": "? 2025 Bawel",
     "PAYMENT_UPI_ID": "Q24630444@ybl",
-    "PAYMENT_QR_URL": "https://qrcg-free-editor.qr-code-generator.com/latest/assets/images/websiteQRCode_noFrame.png",
+    "PAYMENT_QR_URL": "https://pub-39dc82f91b504ecda0b4cafcf7411f9c.r2.dev/1cf9c2c5-3228-4190-8504-e86e0219e3c8.jpg",
     "WEB_APP_URL": "https://script.google.com/macros/s/AKfycbw7NP8dEXn3drWaxmK0n0qCu9iMPHUFed5aivGzu3c6Xu8xzIRYBOvbriaudpKUQJegyA/exec",
-    "BANK_NAME": "HDFC Bank",
-    "BANK_ACC_NO": 50100123456789,
-    "BANK_IFSC": "HDFC0001234",
-    "BANK_HOLDER_NAME": "Rahul Kumar"
+    "BANK_NAME": "Kotak Mahindra Bank",
+    "BANK_ACC_NO": 9846558430,
+    "BANK_IFSC": "KKBK0005033",
+    "BANK_HOLDER_NAME": "Md Mehboob Alam"
   },
   "categories": [
     "Showroom",
@@ -33553,5 +33553,5 @@
     "Karnataka": 30000,
     "Uttar Pradesh": 40000
   },
-  "generatedAt": "2026-02-17T05:54:28.930Z"
+  "generatedAt": "2026-02-22T01:42:29.979Z"
 }
