@@ -25,11 +25,11 @@
     "Wash"
   ],
   "categoryPrices": {
-    "Showroom": 5001,
-    "Parts": 2001,
-    "Service": 3001,
-    "Rentals": 5001,
-    "Accessories": 2001,
+    "Showroom": 2001,
+    "Parts": 1001,
+    "Service": 1001,
+    "Rentals": 1001,
+    "Accessories": 1001,
     "Wash": 1001
   },
   "states": [
@@ -33581,5 +33581,5 @@
     "Jammu and Kashmir": 20000,
     "Puducherry": 40000
   },
-  "generatedAt": "2026-02-22T10:20:34.357Z"
+  "generatedAt": "2026-02-23T03:40:14.316Z"
 }
